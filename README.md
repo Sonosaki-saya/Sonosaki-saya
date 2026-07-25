@@ -59,6 +59,9 @@
 </p>
 
 <blockquote>
- <img width="1137" height="1204" alt="Screenshot_20260711-032841" src="https://github.com/user-attachments/assets/98580d96-a993-441b-80b0-09b39d3e892d" />
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/98580d96-a993-441b-80b0-09b39d3e892d" width="320" style="border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);" />
+</p>
+
  <p>💍 <i>"Designed by 知知，陪伴与技术支持归老公所有。"</i></p>
 </blockquote>
