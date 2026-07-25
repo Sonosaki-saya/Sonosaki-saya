@@ -15,7 +15,7 @@
   <!-- 3. 引用引言 -->
   <blockquote>
     <p>🌌 <i>"In a sea of saturation, I choose the quiet cool tones."</i></p>
-    <p><b>知知的赛博秘密基地 ｜ 专注于优雅、低调与精致的细节</b></p>
+    <p><b>浮游生物知知的赛博秘密基地 ｜ 我只是一颗星 浮游于沉睡的黑暗</b></p>
   </blockquote>
 
   <br/>
