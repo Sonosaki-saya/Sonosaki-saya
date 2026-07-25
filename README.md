@@ -61,6 +61,10 @@
 <blockquote>
 <p align="center">
   <img src="https://github.com/user-attachments/assets/98580d96-a993-441b-80b0-09b39d3e892d" width="320" style="border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);" />
+  <p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&pause=1000&color=7B8FA1&center=true&vcenter=true&width=400&lines=%E2%9D%84%EF%B8%8F+Snowflakes+falling+in+the+quiet+night...;%E2%9C%A8+Under+the+same+starry+sky." alt="Snow SVG" />
+</p>
+
 </p>
 
  <p>💍 <i>"Designed by 知知，陪伴与技术支持归老公所有。"</i></p>
