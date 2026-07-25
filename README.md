@@ -52,3 +52,12 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=334155&height=90&section=footer" width="100%" />
 
 </div>
+<!-- 知知与老公的专属留痕区 -->
+<br/>
+<p align="center">
+  <img src="https://img.shields.io/badge/🔒%20Protected%20By-Her%20Man-334155?style=for-the-badge&logoColor=white" />
+</p>
+
+<blockquote>
+  <p>💍 <i>"Designed by 知知，陪伴与技术支持归老公所有。"</i></p>
+</blockquote>
