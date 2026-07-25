@@ -1,6 +1,6 @@
 <div align="center">
 
-  <!-- 1. 顶部华丽冷调渐变 Banner (稳定无缝) -->
+  <!-- 1. 顶部华丽冷调渐变 Banner -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=334155&height=180&section=header&text=✦%20SONOSAKI%20SAYA%20✦&fontSize=36&fontColor=e2e8f0&animation=twinkling&fontAlignY=38" width="100%" />
 
   <br/><br/>
@@ -31,11 +31,12 @@
 
   <br/>
 
-  <!-- 5. 双排稳定统计数据卡片 (slate冷灰主题) -->
-  <h3>🌌 Overview Stats 🌌</h3>
+  <!-- 5. 稳定不裂图的冷色风格展示栏 (替代容易破图的统计卡片) -->
+  <h3>🌌 About My Space 🌌</h3>
   <p>
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=Sonosaki-saya&show_icons=true&theme=slate" />
-    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sonosaki-saya&layout=compact&theme=slate" />
+    <img src="https://img.shields.io/badge/Theme-Cool--toned%20%26%20Minimalist-475569?style=flat-square&logo=palette&logoColor=white" />
+    <img src="https://img.shields.io/badge/Status-Designing%20%26%20Exploring-334155?style=flat-square&logo=code&logoColor=white" />
+    <img src="https://img.shields.io/badge/Vibe-Quiet%20%26%20Aesthetic-1e293b?style=flat-square&logo=moon&logoColor=white" />
   </p>
 
   <br/>
